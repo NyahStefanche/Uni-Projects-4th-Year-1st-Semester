@@ -1,0 +1,47 @@
+body
+{
+background-color:#CCC;
+font-size:14px;
+margin:0px;
+padding:0px;
+}
+
+table
+{
+border:1px solid black;
+background-color:#33CCFF;
+}
+
+#main
+{
+width:1000px;
+margin:0 auto;
+border:1px solid #666;
+background-color:#F1F1F1;
+}
+
+#menu
+{
+height:30px;
+border-bottom:1px solid #666;
+text-align:center;
+line-height:30px;
+}
+
+#menu a
+{
+color:#006600;
+text-decoration:none;
+}
+
+#menu a:hover
+{
+color:#0000CC;
+text-decoration:underline;
+}
+
+#content
+{
+padding:30px;
+min_height:500px;
+}
